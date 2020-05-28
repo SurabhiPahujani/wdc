@@ -1,0 +1,45 @@
+.App{
+    height: 100%;
+}
+
+input{
+    border:2px solid #FFC000;
+    height:30px;
+    width:170px;
+}
+
+input:active{
+    border:2px solid #FFC000 !important
+}
+input:focus{
+    border:2px solid #FFC000 !important;
+}
+
+label{
+    font-weight: bold;
+}
+
+table{
+    border-spacing: 10px !important;
+}
+
+a{
+    text-decoration: none;
+}
+
+  .col {
+    min-height: 3em;
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 10px 50px 10px 50px;
+    border: 1px solid #eee;
+    text-align: center;
+  }  
+  .row{
+      padding: 1%;
+  }
+
+  .list{
+      background-color: lightgray;
+  }
